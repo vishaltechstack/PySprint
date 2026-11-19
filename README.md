@@ -63,6 +63,14 @@ Each entry is structured around **guided problem-solving** rather than rote memo
    ```bash
    git clone [https://github.com/your-username/PySprint.git](https://github.com/your-username/PySprint.git)
    cd PySprint
+2. **Verify your Python version (3.10+ recommended):**
+   ```bash
+   python --version
+4. **Run any challenge script:**
+   ```bash
+   python challenge_name.py
+
+---
 
 ## 🤝 Contributing & Sprinting Along
 Want to practice alongside this repo?
@@ -70,3 +78,17 @@ Want to practice alongside this repo?
 2. Create a new branch (git checkout -b sprint/your-name).
 3. Add your own solutions or alternative optimizations.
 4. Open a Pull Request to share your approach!
+
+---
+
+## 👨‍💻 Author
+**Vishal Sharma**
+Python Developer | Problem Solver | Tech Enthusiast
+GitHub: @vishaltechstack
+
+---
+
+## 📄 License
+This project is licensed under the MIT License — feel free to use, modify, and share the problems and solutions for learning purposes.
+
+**⭐ If you find this repository helpful or you're also building a daily coding habit, give this repo a star and sprint along!**
